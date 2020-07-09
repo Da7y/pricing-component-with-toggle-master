@@ -8,12 +8,16 @@ html {
   height: 100%; }
 
 body {
+  padding: 5rem;
   background-color: #F7F7FF;
   font-family: 'Montserrat', sans-serif;
   background-image: url(../images/bg-top.svg), url(../images/bg-bottom.svg);
-  background-size: 50rem 50rem , 30rem 26rem;
-  background-repeat: no-repeat, no-repeat;
-  background-position: top right, bottom left; }
+  background-size: 50rem 50rem ,
+ 30rem 26rem;
+  background-repeat: no-repeat,
+ no-repeat;
+  background-position: top right,
+ bottom left; }
 
 .header {
   text-align: center; }
